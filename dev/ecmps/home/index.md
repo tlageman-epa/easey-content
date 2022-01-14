@@ -1,6 +1,6 @@
 ## About ECMPS 2.0 Beta #
 
-The Emissions Collection and Monitoring Plan System 2.0 Beta is the new web-based reporting tool released in beta form to allow industry users and the public to begin testing and learning the new application. The initial application, released in December of 2021, begins with the limited functionality of view (no login required) and edit/evaluate ([CDX Test Login] required) of monitoring plan data. Subsequent releases throughout 2022 will add import and export functionality and the additional data types—QA, certifications, and emissions. Data in the beta is not production data and is only being used for testing purposes.
+The **_Emissions Collection and Monitoring Plan System 2.0 Beta_** is the new web-based reporting tool released in beta form to allow industry users and the public to begin testing and learning the new application. The initial application, released in December of 2021, begins with the limited functionality of view (no login required) and edit/evaluate ([CDX Test Login] required) of monitoring plan data. Subsequent releases throughout 2022 will add import and export functionality and the additional data types—QA, certifications, and emissions. Data in the beta is not production data and is only being used for testing purposes.
 
 There are two primary goals of the extended beta process.
 - Allow users to learn the new web-based reporting tool and provide feedback to EPA.
