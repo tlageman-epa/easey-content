@@ -22,7 +22,7 @@ If a guide does not provide the solution you need, reference the [FAQs] and/or t
 
 [FAQs]: </help-support/faqs>
 [Contact Us]: </help-support/contact-us>
-[Custom Data Download]: <https://api.epa.gov/easey/dev/content-mgmt/campd/quick-start-guides/CustomDataDownload-QuickStartGuide.pdf>
+[Custom Data Download]: <https://api.epa.gov/easey/dev/content-mgmt/campd/resources/CustomDataDownload-QuickStartGuide.pdf>
 [Allowance Data Guide]: <#>
 [Emissions Data Guide]: <#>
 [Substitute Data]: <#>
