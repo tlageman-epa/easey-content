@@ -2,7 +2,7 @@
 
 Learn more about the data and data access methods available in CAMPD using the guides below.  
 
-If a guide does not provide the solution you need, reference the [FAQs](/help-support/faq "Link") and/or the [Contact Us](/help-support/contact-us "Link") pages. 
+If a guide does not provide the solution you need, reference the [FAQs](/help-support/faqs "Link") and/or the [Contact Us](/help-support/contact-us "Link") pages. 
 
 ## Quick Start Guides:
 
@@ -18,4 +18,4 @@ If a guide does not provide the solution you need, reference the [FAQs](/help-su
 
 **[Substitute Data](https://www.epa.gov/airmarkets/monitoring-insights "Link")**: Analysis exploring the use of measured and substitute data between 2015 and 2019. The analysis finds that substitute data represents a minor portion of the total reported data.
 
-**EIA Data Crosswalk**: Table matching key EPA and Energy Information Administration (EIA) identifiers assigned to power plants and electric generating units.
+**[EIA Data Crosswalk](https://www.epa.gov/airmarkets/power-sector-data-crosswalk "Link")**: Table matching key EPA and Energy Information Administration (EIA) identifiers assigned to power plants and electric generating units.
