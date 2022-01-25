@@ -1,0 +1,7 @@
+[
+  {
+    "userid": "kherceg-dp",
+    "facilities": [1, 2, 3],
+    "roles": ["MP", "QA"]
+  }
+]
