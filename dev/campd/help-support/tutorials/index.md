@@ -6,7 +6,7 @@ If a guide does not provide the solution you need, reference the [FAQs](/help-su
 
 ## Quick Start Guides:
 
-**[Custom Data Download](https://api.epa.gov/easey/dev/content-mgmt/campd/resources/CustomDataDownload-QuickStartGuide.pdf "Link")**: A brief overview of the Custom Data Download tool to build queries of apportioned emissions, allowance and compliance data.
+**[Custom Data Download](https://api.epa.gov/easey/dev/content-mgmt/campd/documents/CustomDataDownload-QuickStartGuide.pdf "Link")**: A brief overview of the Custom Data Download tool to build queries of apportioned emissions, allowance and compliance data.
 
 ## Data Guides:
 
