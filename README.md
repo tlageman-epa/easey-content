@@ -37,7 +37,7 @@ These languages, programs, and applications are necessary for the installation a
 #### Links and Images 
 | Syntax  | Result  |
 | ------------ | ------------ |
-| `[Example Link](http://https://campd-dev.app.cloud.gov/ "Link")`  | [Link](http://https://campd-dev.app.cloud.gov/ "Link")  |
+| `[Example Link](http://https://campd-dev.app.cloud.gov/ "Link")`  | [Example Link](http://https://campd-dev.app.cloud.gov/ "Link")  |
 |  `![Img ](https://campd-dev.app.cloud.gov/images/icons/icon-data.svg "Img ")`  | ![Img ](https://campd-dev.app.cloud.gov/images/icons/icon-data.svg "Img ")|
 
 #### JSON Guide 
