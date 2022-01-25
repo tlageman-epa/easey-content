@@ -1,11 +1,11 @@
 [
   {
-    "title": "Beta 0.1",
-    "date": "August 11, 2021",
+    "title": "CAMPD Release 1.0",
+    "date": "May 1, 2022",
     "features": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "Proin porttitor tellus vel justo faucibus, egit interdum mi consequat",
-      "Morbi et fermentum ante. Nunc iaculis ultricies mauris, nec ullamcorper orci blandit quis"
+      "Testing 1",
+      "Testing 2",
+      "Testing 3"
     ],
     "bugFixes": [
       "Lorem ipsum dolor sit amet",
@@ -29,16 +29,16 @@
     ]
   },
   {
-    "title": "Beta 0.0.9",
-    "date": "July 26, 2021",
+    "title": "CAMPD Release 1.0",
+    "date": "May 1, 2022",
     "features": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "Proin porttitor tellus vel justo faucibus, egit interdum mi consequat",
-      "Morbi et fermentum ante. Nunc iaculis ultricies mauris, nec ullamcorper orci blandit quis"
+      "Testing 1",
+      "Testing 2",
+      "Testing 3"
     ],
     "bugFixes": [
-      "Lorem ipsum dolor sit amet",
-      "Consectetur adipiscing elit",
+      "Still testing 1",
+      "Still Testing 2",
       "Proin porttitor tellus vel justo faucibus",
       "Egit interdum mi consequat",
       "Morbi et fermentum ante",
