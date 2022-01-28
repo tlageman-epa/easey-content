@@ -1,7 +1,13 @@
 [
   {
     "userid": "kherceg-dp",
-    "facilities": [1, 2, 3],
-    "roles": ["MP", "QA"]
+    "facilities": [
+      {
+        "id": 1,
+        "oris": 3,
+        "name": "Barry",
+        "roles": ["DPQA", "DPMP", "DPEM", "DSQA", "DSMP", "DSEM"]
+      }
+    ]
   }
 ]
