@@ -1,0 +1,3 @@
+- View the **[Tutorials](https://campd-tst.app.cloud.gov/help-support/tutorials "Link")** for data & **[quick start guides](https://api.epa.gov/easey/test/content-mgmt/campd/documents/CustomDataDownload-QuickStartGuide.pdf "Link")** on using CAMPD's new features
+- Have a comment/feedback? Leave a note in the **[Contact Us](https://campd-tst.app.cloud.gov/help-support/contact-us "Link")** page
+- Sign-up for **[CAMPD's email list ![The CAMPD's email list link is to a website outside of the government domain](https://api.epa.gov/easey/test/content-mgmt/campd/images/external-link.PNG "The CAMPD's email list link is to a website outside of the government domain")](https://lp.constantcontactpages.com/su/SmTSbfJ "Link")** for updates on future releases & functionality
