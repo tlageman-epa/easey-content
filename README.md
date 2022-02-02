@@ -1,12 +1,12 @@
-# `EPA CAMD EASEY CONTENT MANAGEMENT`
-
 [![GitHub](https://img.shields.io/github/license/US-EPA-CAMD/easey-content)](https://github.com/US-EPA-CAMD/easey-content/blob/master/LICENSE)
 [![Dev Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Dev%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Test Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Test%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Beta Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Beta%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Staging Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Staging%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 <br>
-Content Documents for EASEY Applications 
+
+# `CONTENT MANAGEMENT`
+Repository of static content and documents that syncs with S3 using Github Actions providing a mechanism to change content without a development & deployment cycle
 
 ## Dependencies 
 These languages, programs, and applications are necessary for the installation and use of the EASEY-Content REPO
