@@ -1,9 +1,11 @@
+# `EPA CAMD EASEY CONTENT MANAGEMENT`
 
-# EASEY - Content 
-[![GitHub](https://img.shields.io/github/license/US-EPA-CAMD/easey-testing)](https://github.com/US-EPA-CAMD/easey-testing/blob/master/LICENSE)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=US-EPA-CAMD_easey-testing&metric=alert_status)](https://sonarcloud.io/dashboard?id=US-EPA-CAMD_easey-testing)
-[![CI/CD](https://github.com/US-EPA-CAMD/easey-testing/workflows/CI/badge.svg)](https://github.com/US-EPA-CAMD/easey-testing/actions)<br>
-
+[![GitHub](https://img.shields.io/github/license/US-EPA-CAMD/easey-content)](https://github.com/US-EPA-CAMD/easey-content/blob/master/LICENSE)
+[![Dev Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Dev%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
+[![Test Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Test%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
+[![Beta Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Beta%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
+[![Staging Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Staging%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
+<br>
 Content Documents for EASEY Applications 
 
 ## Dependencies 
