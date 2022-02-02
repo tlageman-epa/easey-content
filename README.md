@@ -1,10 +1,10 @@
 # `EPA CAMD EASEY CONTENT MANAGEMENT`
 
 [![GitHub](https://img.shields.io/github/license/US-EPA-CAMD/easey-content)](https://github.com/US-EPA-CAMD/easey-content/blob/master/LICENSE)
-[![Dev Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Dev%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
-[![Test Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Test%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
-[![Beta Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Beta%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
-[![Staging Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Staging%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/devops/actions)
+[![Dev Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Dev%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
+[![Test Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Test%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
+[![Beta Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Beta%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
+[![Staging Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Staging%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 <br>
 Content Documents for EASEY Applications 
 
