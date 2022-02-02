@@ -1,4 +1,4 @@
-name: Dev Environment Workflow
+name: Dev Env Content Sync
 
 on:
   push:

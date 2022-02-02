@@ -1,22 +1,22 @@
-name: Test Env Content Sync
+name: Staging Env Content Sync
 
 on:
   push:
     branches: [master]
     paths:
-      - test/**
+      - staging/**
 
 jobs:
   Publish-Content:
     runs-on: ubuntu-latest
     environment:
-      name: Test
+      name: Staging
     steps:
       - name: Setup Environment Variables
         run: |
-          echo "ENV=test" >> $GITHUB_ENV
+          echo "ENV=staging" >> $GITHUB_ENV
           echo "AWS_DEFAULT_REGION=us-gov-west-1" >> $GITHUB_ENV
-          echo "BUCKET_NAME=cg-f61bd1bb-2c11-42bb-beb4-835dcccb6310" >> $GITHUB_ENV
+          echo "BUCKET_NAME=cg-468c17da-3282-484a-ac00-8426e2a32594" >> $GITHUB_ENV
       - name: Sync from S3
         run: |
           mkdir $ENV

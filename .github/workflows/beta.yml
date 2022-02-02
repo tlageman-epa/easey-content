@@ -1,22 +1,22 @@
-name: Test Env Content Sync
+name: Beta Env Content Sync
 
 on:
   push:
     branches: [master]
     paths:
-      - test/**
+      - beta/**
 
 jobs:
   Publish-Content:
     runs-on: ubuntu-latest
     environment:
-      name: Test
+      name: Beta
     steps:
       - name: Setup Environment Variables
         run: |
-          echo "ENV=test" >> $GITHUB_ENV
+          echo "ENV=beta" >> $GITHUB_ENV
           echo "AWS_DEFAULT_REGION=us-gov-west-1" >> $GITHUB_ENV
-          echo "BUCKET_NAME=cg-f61bd1bb-2c11-42bb-beb4-835dcccb6310" >> $GITHUB_ENV
+          echo "BUCKET_NAME=cg-0ad90f70-98a5-4c1c-88a6-621cae68c5e2" >> $GITHUB_ENV
       - name: Sync from S3
         run: |
           mkdir $ENV
