@@ -1,11 +1,16 @@
-[![GitHub](https://img.shields.io/github/license/US-EPA-CAMD/easey-content)](https://github.com/US-EPA-CAMD/easey-content/blob/master/LICENSE)
+# Content Management
+
+[![License](https://img.shields.io/github/license/US-EPA-CAMD/easey-content)](https://github.com/US-EPA-CAMD/easey-content/blob/master/LICENSE)
 [![Dev Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Dev%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Test Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Test%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Beta Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Beta%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
 [![Staging Env Content Sync](https://github.com/US-EPA-CAMD/easey-content/workflows/Staging%20Env%20Content%20Sync/badge.svg)](https://github.com/US-EPA-CAMD/easey-content/actions)
-<br>
+![Issues](https://img.shields.io/github/issues/US-EPA-CAMD/easey-campd-ui)
+![Forks](https://img.shields.io/github/forks/US-EPA-CAMD/easey-campd-ui)
+![Stars](https://img.shields.io/github/stars/US-EPA-CAMD/easey-campd-ui)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/US-EPA-CAMD/easey-campd-ui)
 
-# `CONTENT MANAGEMENT`
+## Description
 Repository of static content and documents that syncs with S3 using Github Actions providing a mechanism to change content without a development & deployment cycle
 
 ## Dependencies 
@@ -43,17 +48,13 @@ These languages, programs, and applications are necessary for the installation a
 |  `![Img ](https://campd-dev.app.cloud.gov/images/icons/icon-data.svg "Img ")`  | ![Img ](https://campd-dev.app.cloud.gov/images/icons/icon-data.svg "Img ")|
 
 #### JSON Guide 
-
 The JSON filetypes will be used for the release notes accordions. Each JSON File is an Array, or basically a list. The start and end of the list list are denoted by straight brackets, or [] Each list item is one release note, Q&A Section, or accordion. Each list item starts and ends with a curly bracket. To edit the JSON File, only edit the test between the parentheses. 
-
-
 
 ## Additional Resources 
 - [Github Markdown Chrome Extension ](http://https://chrome.google.com/webstore/detail/github-readme-markdown/paacehodnnofnmhogoclomamladkpabg?hl=en "Github Markdown Chrome Extension ")
 - [Browser Markdown Editor ](http://https://pandao.github.io/editor.md/en.html "Browser Markdown Editor ")
 
 ## License & Contributing
-
 This project is licensed under the MIT License. We encourage you to read this project’s [License](https://github.com/US-EPA-CAMD/devops/blob/master/LICENSE), [Contributing Guidelines](https://github.com/US-EPA-CAMD/devops/blob/master/CONTRIBUTING.md), and [Code of Conduct](https://github.com/US-EPA-CAMD/devops/blob/master/CODE_OF_CONDUCT.md).
 
 ## Disclaimer
