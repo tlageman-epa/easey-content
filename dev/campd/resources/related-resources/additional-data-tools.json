@@ -3,6 +3,7 @@
     "name": "AirData",
     "url": "https://www.epa.gov/outdoor-air-quality-data",
     "description": "AirData provides air quality data from the AQS (Air Quality System) database and other data sources allowing download, reporting, graphing and mapping functionalities."
+    "externalSite": true
   },
   {
     "name": "CASTNET",
