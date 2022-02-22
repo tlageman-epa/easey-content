@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "value": "Help using application"
+  },
+  {
+    "id": 2,
+    "value": "Report a bug"
+  },
+  {
+    "id": 3,
+    "value": "Data question"
+  },
+  {
+    "id": 4,
+    "value": "Suggested enhancements"
+  },
+  {
+    "id": 5,
+    "value": "Other"
+  }
+]
