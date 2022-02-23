@@ -4,7 +4,7 @@
       "items": [
         {
           "title": "What time zone is emissions data reported in?",
-          "content": "Emissions data are reported in the local standard time of each particular facility. Testing..."
+          "content": "Emissions data are reported in the local standard time of each particular facility."
         },
         {
           "title": "When is emissions data reported and updated in CAMPD? ",
