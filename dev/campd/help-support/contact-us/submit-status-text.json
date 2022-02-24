@@ -6,7 +6,7 @@
   },
   {
     "status": "error-incomplete-fields",
-    "message": "All fields are required. Please fill in the form completely and try again. testing"
+    "message": "All fields are required. Please fill in the form completely and try again."
   },
   {
     "status": "error-unsuccessful-submition",
