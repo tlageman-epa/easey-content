@@ -1,0 +1,1 @@
+MATS required that coal-fired electricity generating units (EGUs) start reporting hourly MATS emissions and operations data as early as April 2015, but provided extensions for many EGUs until April 2016 or 2017. Therefore, complete MATS data are not available until calendar year 2018.
