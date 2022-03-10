@@ -1,3 +1,3 @@
-## Help/Support
+## Help/Support.
 
 Coming Soon
