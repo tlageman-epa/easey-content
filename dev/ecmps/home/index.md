@@ -8,7 +8,7 @@ There are two primary goals of the extended beta process.
 
 Please subscribe to [ECMPS Blog Spot] for additional updates.
 
-Have questions or feedback? Please contact us through our [Contact Us] form.
+Have questions or feedback? Please contact us through our [Contact Us] form..
 
 [CDX Test Login]: <https://dev.epacdx.net/FAQ>
 [ECMPS Blog Spot]: <https://ecmps.blogspot.com>
