@@ -1,0 +1,6 @@
+{
+   "heading" : "Informational Message:",
+   "message": "This is where the outage message will be displayed during a maintenance window.",
+   "enabled" : "true"
+}
+
