@@ -1,12 +1,12 @@
 # Tutorials
 
-Learn more about the data and data access methods available in CAMPD using the guides below.
+Learn more about the data and data access methods available in CAMPD using the guides below.  
 
-If a guide does not provide the solution you need, reference the [FAQs](/help-support/faqs "Link") and/or the [Contact Us](/help-support/contact-us "Link") pages.
+If a guide does not provide the solution you need, reference the [FAQs](/help-support/faqs "Link") and/or the [Contact Us](/help-support/contact-us "Link") pages. 
 
 ## Quick Start Guides:
 
-**[Custom Data Download](https://api.epa.gov/easey/test/content-mgmt/campd/documents/CustomDataDownload-QuickStartGuide.pdf "Link")**: A brief overview of the Custom Data Download tool to build queries of apportioned emissions, allowance and compliance data.
+**[Custom Data Download](https://api.epa.gov/easey/dev/content-mgmt/campd/documents/CustomDataDownload-QuickStartGuide.pdf "Link")**: A brief overview of the Custom Data Download tool to build queries of apportioned emissions, allowance and compliance data.
 
 ## Data Guides:
 
