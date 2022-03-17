@@ -2,7 +2,11 @@
   {
     "title": "CAMPD Release 1.0",
     "date": "May 1, 2022",
-    "features": ["Testing 1", "Testing 2", "Testing 3"],
+    "features": [
+      "Testing 1",
+      "Testing 2",
+      "Testing 3"
+    ],
     "bugFixes": [
       "N/A",
       "Consectetur adipiscing elit",
@@ -27,7 +31,11 @@
   {
     "title": "CAMPD Release 1.0",
     "date": "May 1, 2022",
-    "features": ["Testing 1", "Testing 2", "Testing 3"],
+    "features": [
+      "Testing 1",
+      "Testing 2",
+      "Testing 3"
+    ],
     "bugFixes": [
       "Still testing 1",
       "Still Testing 2",
