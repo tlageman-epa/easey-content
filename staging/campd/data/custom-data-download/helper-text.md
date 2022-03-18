@@ -5,5 +5,6 @@
 - Click Preview Data to view data selection.
 - Activate the tool tips ![Help Icon](https://api.epa.gov/easey/staging/content-mgmt/images/epa-help.svg) to reveal helpful tips and info.
 - For more help, view the **[quick start guides](https://api.epa.gov/easey/staging/content-mgmt/campd/documents/CustomDataDownload-QuickStartGuide.pdf "Link")**.
-- **Queries are limited to 5 million records of hourly emissions data with no additional filters. For larger downloads, visit **[Bulk Data Files.](https://campd-stg.app.cloud.gov/data/bulk-data-files "Link")****
+- **Queries are limited to 5 million records or about one and a half months of hourly emissions with no additional filters. For larger downloads, visit **[Bulk Data Files.](https://campd-stg.app.cloud.gov/data/bulk-data-files "Link")****
+- **Query preview/download may take 30 seconds or upwards of several minutes depending on query size and internet speed.**
 
